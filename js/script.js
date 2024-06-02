@@ -1,5 +1,6 @@
 //English-Turkish language exchange
 
+
 document.querySelector(".turkish-button").addEventListener("click", (e) => {
     document.querySelector(".warning").innerText = "Düğmenin çalışması için en az bir ses seçmeniz gerekir.";
     document.querySelector(".discription").innerHTML = "Calibri web uygulaması aslında Microsoft'un Elpy uygulamasından ilham alınarak hayata geçirilen bir projedir.";
